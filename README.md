@@ -1,5 +1,10 @@
-## Sales Report :
 
+
+**Excel Sales and Analysis**
+
+This project focuses on analyzing the sales and financial data of AtliQ Hardwear using Excel. It provides insights into customer performance, market performance, and financial statements. The reports generated in this project aim to support decision-making processes and facilitate communication with stakeholders.
+
+## Sales Report :
 
 - **Project objective:** 
 
